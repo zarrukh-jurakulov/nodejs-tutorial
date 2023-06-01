@@ -1,0 +1,1 @@
+cd ../ => go back to previous folder ; mkdir => create new folder
